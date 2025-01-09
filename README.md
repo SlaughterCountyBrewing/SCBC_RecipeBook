@@ -51,7 +51,7 @@ Table Of Contents
 - [Blackjack Brown](src/BlackjackBrown.md)
 - [Captain Howdy](src/CaptainHowdy.md)
 - [Dubble Team Supreme](src/DubbleTeamSupreme.md)
-- [Gorst Light](src/Gorst.md)
+- [Gorst Premium](src/Gorst.md)
 - [Hoptopod IPA](src/Hoptopod.md)
 - [Jul Fruktsoppa](src/Fruktsoppa.md)
 - [Lonely Mountain](src/LonelyMountain.md)
