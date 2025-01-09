@@ -36,3 +36,5 @@ Target Kettle Fill Volume: 97.38 gal
 | 1.0 pkg | Nottingham Yeast (Lallemand #) [23.66 m] | Yeast | 8   | -     |
 
 ## Notes
+
+![](assets/media/BlackjackBrown.jpg)![](assets/media/BlackjackBrown2.jpg)

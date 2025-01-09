@@ -45,6 +45,13 @@
 **SCBC_Recipebook** is voluptatibus magni nemo est. Nulla nobis dicta iste minus dolor repellendus aspernatur atque. Earum expedita aut inventore tempora fugiat deleniti. Molestias minima nam expedita beatae totam ipsa reprehenderit animi. Occaecati quibusdam beatae ducimus voluptate ut doloribus vitae amet. Quia ut ut voluptate dignissimos adipisci dolorum rem.
 
 
+
+- [Blackjack Brown](src/BlackjackBrown.md)
+- [Captain Howdy](src/CaptainHowdy.md)
+
+
+
+
 [BlackjackBrown.jpg](assets/media/BlackjackBrown.jpg)  
 [BlackjackBrown2.jpg](assets/media/BlackjackBrown2.jpg)  
 [CaptainHowdy.jpg](assets/media/CaptainHowdy.jpg)  
