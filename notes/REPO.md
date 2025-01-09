@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="assets/media/logo.jpg" alt="logo" width="200" height="auto" />
+  <img src="../assets/media/scb_logo.png" alt="logo" width="200" height="auto" />
     <h1><a href="https://github.com/SlaughterCountyBrewing/SCBC_RecipeBook">SlaughterCountyBrewing/SCBC_RecipeBook</a></h1>
-  <h3>Nulla nobis dicta iste minus dolor repellendus aspernatur atque</h3>
+  <h3>Technical Repository Notes</h3>
   
   
 <!-- Badges -->
@@ -32,8 +32,6 @@
 </p>
    
 <h4>
-    <a href="https://tinyurl.com/3vf7whyd">View Demo</a>
-  <span> · </span>
     <a href="https://github.com/SlaughterCountyBrewing/SCBC_RecipeBook/blob/main/README.md">Documentation</a>
   <span> · </span>
     <a href="https://github.com/SlaughterCountyBrewing/SCBC_RecipeBook/issues/new?labels=bug&title=%5BBUG%5D">Report Bug</a>
@@ -42,7 +40,7 @@
   </h4>
 </div>
 
-**SCBC_Recipebook** is voluptatibus magni nemo est. Nulla nobis dicta iste minus dolor repellendus aspernatur atque. Earum expedita aut inventore tempora fugiat deleniti. Molestias minima nam expedita beatae totam ipsa reprehenderit animi. Occaecati quibusdam beatae ducimus voluptate ut doloribus vitae amet. Quia ut ut voluptate dignissimos adipisci dolorum rem.
+**SCBC_Recipebook** was initialized using the [ScooterGitTemplate](https://github.com/ScottKirvan/ScooterGitTemplate), so it automatically includes the structure, functions, and automations outlined below.
 
 
 Branches
@@ -85,7 +83,7 @@ Contributions / Contact
 
 Credits
 -------
-**Copyright (c) (2024):** [Scott Kirvan](https://github.com/ScottKirvan)  - All rights reserved   
+**Copyright (c) (2025):** [Scott Kirvan](https://github.com/ScottKirvan)  - All rights reserved   
 *SCBC_Recipebook is licensed under the [MIT License](LICENSE.md).*  
 
 Project Link:  [SCBC_Recipebook](https://github.com/SlaughterCountyBrewing/SCBC_RecipeBook)  
