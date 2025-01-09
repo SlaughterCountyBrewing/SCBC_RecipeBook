@@ -45,40 +45,14 @@
 **SCBC_Recipebook** is voluptatibus magni nemo est. Nulla nobis dicta iste minus dolor repellendus aspernatur atque. Earum expedita aut inventore tempora fugiat deleniti. Molestias minima nam expedita beatae totam ipsa reprehenderit animi. Occaecati quibusdam beatae ducimus voluptate ut doloribus vitae amet. Quia ut ut voluptate dignissimos adipisci dolorum rem.
 
 
-[BlackjackBrown.jpg](assets/media/BlackjackBrown.jpg)  
-[BlackjackBrown2.jpg](assets/media/BlackjackBrown2.jpg)  
-[CaptainHowdy.jpg](assets/media/CaptainHowdy.jpg)  
-[DubbleTeamSupreme (2).jpg](assets/media/DubbleTeamSupreme (2).jpg)  
-[DubbleTeamSupreme.jpg](assets/media/DubbleTeamSupreme.jpg)  
-[Gorst.jpg](assets/media/Gorst.jpg)  
-[Hoptopod.jpg](assets/media/Hoptopod.jpg)  
-[JulFruktsoppa.jpg](assets/media/JulFruktsoppa.jpg)  
-[LonelyMountain.jpg](assets/media/LonelyMountain.jpg)  
-[LunaNegra.jpg](assets/media/LunaNegra.jpg)  
-[MonPetit_Tripel.jpg](assets/media/MonPetit_Tripel.jpg)  
-[OCiardubhainsIrishStout.jpg](assets/media/OCiardubhainsIrishStout.jpg)  
-[OatmealStout.jpg](assets/media/OatmealStout.jpg)  
-[Outlane_log (2).jpg](assets/media/Outlane_log (2).jpg)  
-[Outlane_log.jpg](assets/media/Outlane_log.jpg)  
-[SkillShot.jpg](assets/media/SkillShot.jpg)  
-[SlaughteredPig.jpg](assets/media/SlaughteredPig.jpg)  
-[SleepyHallow.jpg](assets/media/SleepyHallow.jpg)  
-[StarkeRoggenhasse.jpg](assets/media/StarkeRoggenhasse.jpg)  
-[StarkeRoggenhasse_notes.jpg](assets/media/StarkeRoggenhasse_notes.jpg)  
-
-
-
-
-
-
 Branches
 --------
-`main` is the [deployed](https://www.scottkirvan.com/ScooterGitTemplate/) branch.  The repo doesn't currently contain any other historic or dev branches.
+`main` is the [deployed](https://slaughtercountybrewing.github.io/SCBC_RecipeBook/) branch.  The repo doesn't currently contain any other historic or dev branches.
 
-Repo Layout
+Base Repo Layout
 -----------
 ```
-ScooterGitTemplate
+SCBS_RecipeBook
 ├───_layouts
 ├───.github
 │   ├───release-please
@@ -89,15 +63,13 @@ ScooterGitTemplate
 └───notes
 ```
 The `_layouts` and `assets/css` folders help support the look of the repo when rended to GitHub Pages (Deployment Workflow). 
-You can see an example of this repo processed using Jekyll and published at [ScottKirvan.com](https://www.scottkirvan.com/ScooterGitTemplate/).  You have to enable **Pages** in your repo's settings.  Details [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll).
+You can see an example of this repo processed using Jekyll and published at [SlaughterCountyBrewing.github.io](https://slaughtercountybrewing.github.io/SCBC_RecipeBook/).  You have to enable **Pages** in your repo's settings.  Details [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll).
 
 The css file creates a page that is styled similar to GitHub's [Dark High Contrast](https://github.blog/changelog/2021-08-25-dark-high-contrast-theme-ga/) theme.
 
 The files in the `.github` folder implement and customizes a github action that runs [Release-Please](https://github.com/googleapis/release-please), which helps with releases, version numbering, and updating the [CHANGELOG](notes/CHANGELOG.md).
 
 >[!NOTE]
-> When using this template project, do not clone the tags or branches. Stick with `main` as the name of your main release branch. Change the version number in the `.release-please-manifest.json` file to the version you want to start with.
->
 > Release-Please uses [Semantic Versioning](https://semver.org/) (version: MAJOR.MINOR.PATCH). Changes to version numbers are triggered by specific keywords in your commit messages:
 > - `feat:` (new feature) will bump the MINOR version number.
 > - `fix:` (bug fixes) will bump the PATCH number.
