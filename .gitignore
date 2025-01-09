@@ -1,2 +1,6 @@
 ScooterGitTemplate.code-workspace
+
 .obsidian/*
+!.obsidian/themes/*
+!.obsidian/plugins/*
+!.obsidian/snippets/*
