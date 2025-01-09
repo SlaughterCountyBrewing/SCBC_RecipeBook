@@ -50,4 +50,4 @@
 ## Notes
 
 
-![](assets/media/CaptainHowdy.jpg)
+![](../assets/media/CaptainHowdy.jpg)

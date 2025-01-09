@@ -37,4 +37,4 @@ Target Kettle Fill Volume: 97.38 gal
 
 ## Notes
 
-![](assets/media/BlackjackBrown.jpg)![](assets/media/BlackjackBrown2.jpg)
+![](../assets/media/BlackjackBrown.jpg)![](../assets/media/BlackjackBrown2.jpg)
