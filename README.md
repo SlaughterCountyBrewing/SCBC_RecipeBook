@@ -46,32 +46,26 @@
 
 
 
+Table Of Contents
+-----------------
 - [Blackjack Brown](src/BlackjackBrown.md)
 - [Captain Howdy](src/CaptainHowdy.md)
+- [Dubble Team Supreme](src/DubbleTeamSupreme.md)
+- [Gorst Light](src/Gorst.md)
+- [Hoptopod IPA](src/Hoptopod.md)
+- [Jul Fruktsoppa](src/Fruktsoppa.md)
+- [Lonely Mountain](src/LonelyMountain.md)
+- [Luna Negra](src/LunaNegra.md)
+- [Mon Petit Tripel](src/MonPetit.md)
+- [O'Ciardubhain's Irish Stout](src/OCiartubhains.md)
+- [Oatmeal Stout](src/OatmealStout.md)
+- [Outlane Oud Brun](src/Outlane.md)
+- [SkillS Shot Amber](src/SkillShot.md)
+- [Slaughtered Pig Smoked Cherry Red](src/SlaughteredPig.md)
+- [Sleepy Hollow Pumpkin Porter](src/SleepyHollow.md)
+- [Starke Roggenhasse - Imperial Rye IPA](src/Roggenhasse.md)
 
 
-
-
-[BlackjackBrown.jpg](assets/media/BlackjackBrown.jpg)  
-[BlackjackBrown2.jpg](assets/media/BlackjackBrown2.jpg)  
-[CaptainHowdy.jpg](assets/media/CaptainHowdy.jpg)  
-[DubbleTeamSupreme (2).jpg](assets/media/DubbleTeamSupreme (2).jpg)  
-[DubbleTeamSupreme.jpg](assets/media/DubbleTeamSupreme.jpg)  
-[Gorst.jpg](assets/media/Gorst.jpg)  
-[Hoptopod.jpg](assets/media/Hoptopod.jpg)  
-[JulFruktsoppa.jpg](assets/media/JulFruktsoppa.jpg)  
-[LonelyMountain.jpg](assets/media/LonelyMountain.jpg)  
-[LunaNegra.jpg](assets/media/LunaNegra.jpg)  
-[MonPetit_Tripel.jpg](assets/media/MonPetit_Tripel.jpg)  
-[OCiardubhainsIrishStout.jpg](assets/media/OCiardubhainsIrishStout.jpg)  
-[OatmealStout.jpg](assets/media/OatmealStout.jpg)  
-[Outlane_log (2).jpg](assets/media/Outlane_log (2).jpg)  
-[Outlane_log.jpg](assets/media/Outlane_log.jpg)  
-[SkillShot.jpg](assets/media/SkillShot.jpg)  
-[SlaughteredPig.jpg](assets/media/SlaughteredPig.jpg)  
-[SleepyHallow.jpg](assets/media/SleepyHallow.jpg)  
-[StarkeRoggenhasse.jpg](assets/media/StarkeRoggenhasse.jpg)  
-[StarkeRoggenhasse_notes.jpg](assets/media/StarkeRoggenhasse_notes.jpg)  
 
 
 
