@@ -21,3 +21,8 @@ Done ✓
 Not Gonna Do ✓
 ------
 - [X] .
+
+## Generated Tasks
+```tasks
+not done
+```
