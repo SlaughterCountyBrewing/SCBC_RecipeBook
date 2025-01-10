@@ -44,7 +44,14 @@
 
 **SCBC_Recipebook** is voluptatibus magni nemo est. Nulla nobis dicta iste minus dolor repellendus aspernatur atque. Earum expedita aut inventore tempora fugiat deleniti. Molestias minima nam expedita beatae totam ipsa reprehenderit animi. Occaecati quibusdam beatae ducimus voluptate ut doloribus vitae amet. Quia ut ut voluptate dignissimos adipisci dolorum rem.
 
-
+> [!NOTE]
+> I'm currently just getting this scanned and in - they may not be accurate. 
+> This phase is just get the data in and get it roughly formatted.  I plan to
+> go back into all of these, fix up errors, and write up some general 
+> process notes, etc.  For 
+> example, we don't pitch a single packet of dried yeast into 100 gal wort. 
+> We would top crop from a previous batch or propagate, over a couple of days,
+>  a good liter of slurry which we would pitch.
 
 Table Of Contents
 -----------------
