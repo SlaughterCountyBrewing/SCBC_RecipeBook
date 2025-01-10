@@ -9,6 +9,11 @@ TODO
 - [ ] Scanning
 	- [ ] [Outlane](src/Outlane.md)
 	- [ ] [FamineIrishRed](../src/FamineIrishRed.md)
+	```tasks
+not done
+filename does not include TODO
+sort by filename
+```
 
 In Progress
 -----------
@@ -23,6 +28,4 @@ Not Gonna Do ✓
 - [x] . ✅ 2025-01-10
 
 ## Generated Tasks
-```tasks
-not done
-```
+
