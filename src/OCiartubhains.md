@@ -1,12 +1,17 @@
 # Irish Stout 3BBL        TYPE: All Grain
 Style: Dry Stout
 ---RECIPE SPECIFICATIONS---------------------------------
-SRM: 31.4 SRM               SRM RANGE: 25.0-40.0 SRM
-IBU: 44.6 IBUs Tinseth      IBU RANGE: 30.0-45.0 IBUs
-OG: 1.049 SG                OG RANGE: 1.036-1.050 SG
-FG: 1.011 SG                FG RANGE: 1.007-1.011 SG
+Specs: 93.00 gal
+ABV: 4.9%    
+IBU: 44.6 IBUs Tinseth     
+SRM: 31.4 SRM                 
+OG: 1.049 SG              
+FG: 1.011 SG             
 BU:GU: 0.916                Calories: 151.6 kcal/12oz
-EE%: 72.00 %    Batch: 93.00 gal    Boil: 97.22 gal    Est ABV: 4.9 %    BT: 60 Mins
+EE%: 72.00 %    
+Batch: 93.00 gal    
+Boil: 97.22 gal    
+BT: 60 Mins
 
 ---WATER CHEMISTRY ADDITIONS--------------
 
