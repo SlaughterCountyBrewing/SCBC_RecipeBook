@@ -1,21 +1,11 @@
-# Irish Stout 3BBL        TYPE: All Grain
-Style: Dry Stout
----RECIPE SPECIFICATIONS---------------------------------
-Specs: 93.00 gal
-ABV: 4.9%    
-IBU: 44.6 IBUs Tinseth     
-SRM: 31.4 SRM                 
-OG: 1.049 SG              
-FG: 1.011 SG             
-BU:GU: 0.916                Calories: 151.6 kcal/12oz
-EE%: 72.00 %    
-Batch: 93.00 gal    
-Boil: 97.22 gal    
-BT: 60 Mins
+# O'Ciardubhain's Irish Stout 
+**Specs:** 93.00 gal | **ABV:** 4.9% | **IBU:** 44.6 IBUs Tinseth | **SRM:** 31.4 SRM                 
+**OG:** 1.049 SG | **FG:** 1.011 SG | **BU:GU:** 0.916 | **Calories:** 151.6 kcal/12oz  
+**Eff:** 72.00 % | **Boil:** 97.22 gal for 60 Mins   
+**Total Grain Weight:** 181 lbs 5.2 oz | **Total Hops:** 36.00 oz oz.
 
 ---WATER CHEMISTRY ADDITIONS--------------
 
-Total Grain Weight: 181 lbs 5.2 oz    Total Hops: 36.00 oz oz.
 ---MASH/STEEP PROCESS------MASH PH:5.40------
 >>>>>>>>>>>ADD WATER CHEMICALS BEFORE GRAINS!!<<<<<<
 Amt            Name                                      Type      #      %/IBU

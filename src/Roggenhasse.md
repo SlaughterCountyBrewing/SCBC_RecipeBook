@@ -1,10 +1,12 @@
 Slaughter County Brewing Company
 
-Old Starke Roggenhase - Imperial IPA - 93.00 gal
-ABV: 11.1 % - IBU: 166.4 IBUs Tinseth - 6.9 SRM
-OG: 1.098 SG - FG: 1.006 SG - BU:GU: 1.210 - Calories: 274.8 kcal/12oz
-EE%: 72.00 % - Boil: 97.22 gal for 60 Mins
-Total Grain Weight: 318 lbs    Total Hops: 89.53 oz oz.
+Old Starke Roggenhase - Imperial IPA - 
+
+**Specs:** 93.00 gal |
+ABV: 11.1 % | **IBU:** 166.4 IBUs Tinseth | **SRM:**6.9 SRM  
+OG: 1.098 SG | FG: 1.006 SG | BU:GU: 1.210 | Calories: 274.8 kcal/12oz  
+EE%: 72.00 % | Boil: 97.22 gal for 60 Mins  
+Total Grain Weight: 318 lbs |  Total Hops: 89.53 oz oz.
 
 ---GRAIN BILL------
 Amt            Name                                      Type      #      %/IBU
