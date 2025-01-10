@@ -8,19 +8,24 @@
 
 ---GRAIN BILL------
 Amt            Name                                      Type      #      %/IBU
-110 lbs        Rye Malt (4.7 SRM)                       Grain     1      35.5 %
-55 lbs         Pale Malt, Maris Otter - ground (3.0 SRM Grain     2      17.7 %
-30 lbs         Wheat Malt, Ger (2.0 SRM)                Grain     3      9.7 %
-30 lbs         Wheat, Flaked (1.6 SRM)                  Grain     4      9.7 %
+## Grain Bill
+| Amount  | Name                                     | Type  | #   | %/IBU  |
+| ------- | ---------------------------------------- | ----- | --- | ------ |
+| 110 lbs | Rye Malt (4.7 SRM)                       | Grain | 1   | 35.5 % |
+| 55 lbs  | Pale Malt, Maris Otter - ground (3.0 SRM | Grain | 2   | 17.7 % |
+| 30 lbs  | Wheat Malt, Ger (2.0 SRM)                | Grain | 3   | 9.7 %  |
+| 30 lbs  | Wheat, Flaked (1.6 SRM)                  | Grain | 4   | 9.7 %  |
 
---MASH---
-Name           Description                               Step Temperat Step Time
-Mash In        Add 70.31 gal of water at 163.7 F        152.0 F      60 min
+## Mash
+**Mash In:** - Add 70.31 gal of water at 163.7°F  | **Step Temperature:** 152.0°F  | **Step Time:** 60 mins  
 
-Fly sparge with 53.91 gal water at 168.0 F
+Fly sparge with 53.91 gal water at 168.0°F  
 
 Target Kettle Fill Volume: 97.22 gal
+
+
 ---BOIL PROCESS (HOP SCHEDULE)----------------------
+## Boil Process (Hop Schedule)
 Est Pre_Boil Gravity: 1.056 SG Est OG: 1.099 SG
 Amt            Name                                      Type      #      %/IBU
 17.91 oz       Cascade [5.50 %] - Boil 90.0 min         Hop       5      18.3 IBUs
