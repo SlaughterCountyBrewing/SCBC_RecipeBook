@@ -67,7 +67,7 @@ Table Of Contents
 
 
 
->[NOTE!] AI was used for OCR and initial drafting of the Markdown format.
+> [!NOTE] AI was used for OCR and initial drafting of the Markdown format.
 > During the process, the AI's were inconsistent, made frequent errors, 
 > wrongly interpreted and changed things, and ignored the hand written 
 > notes... of course.  Image scan's of the 
