@@ -61,7 +61,7 @@ Table Of Contents
 - [Oatmeal Stout](src/OatmealStout.md)
 - [Outlane Oud Brun](src/Outlane.md)
 - [SkillS Shot Amber](src/SkillShot.md)
-- [Slaughtered Pig Smoked Cherry Red](src/FamineIrishRed.md)
+- [Famine Irish Red](src/FamineIrishRed.md)
 - [Sleepy Hollow Pumpkin Porter](src/SleepyHollow.md)
 - [Starke Roggenhasse - Imperial Rye IPA](src/Roggenhasse.md)
 
