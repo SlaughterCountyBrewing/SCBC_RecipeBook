@@ -3,7 +3,7 @@ TODO
 - [ ] .
 ```tasks
 not done
-not in_progress
+status.type is not in_progress
 filename does not include TODO
 sort by filename
 hide task count
