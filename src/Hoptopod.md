@@ -3,7 +3,7 @@
 **Specs:** 93.00 gal |**ABV:** 6.7% | **IBUis:** 49.5 IBUs Tinseth | **SRM:** 7.4 SRM  
 **OG:** 1.064 SG | **FG:** 1.013 SG | **BU:GU:** 0.777 | **Calories:** 151.6 kcal/12oz  
 **Eff:** 72.00% | **Boil:** 97.38 gal for 60 Mins  
-**Total Grain Weight:** 222 lbs | **Total Hops:** 105.00 oz oz.
+**Total Grain Weight:** 222 lbs | **Total Hops:** 105.00 oz 
 
 ## Grain Bill
 | Amount        | Name                                      | Type  | #   | %/IBU |

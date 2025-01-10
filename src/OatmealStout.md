@@ -1,10 +1,9 @@
-# Slaughter County Brewing Company
+# Oatmeal Stout
 
-Anniversary Oatmeal Stout - Oatmeal Stout - 93.00 gal
-ABV: 6.1 % - IBU: 37.3 IBUs Tinseth - SRM: 31.8 SRM
-OG: 1.063 SG - FG: 1.014 SG - BU:GU: 0.345 - Calories: 151.6 kcal/12oz
-EE%: 72.00 % - Boil: 97.38 gal for 60 Mins
-Total Grain Weight: 224 lbs    Total Hops: 40.00 oz oz.
+**Specs:** 93.00 gal | **ABV:** 6.1 % | **IBUs:** 37.3 IBUs Tinseth | **SRM:** 31.8 SRM  
+**OG:** 1.063 SG | **FG:** 1.014 SG | **BU:GU:** 0.345 | **Calories:** 151.6 kcal/12oz  
+**Eff:** 72.00 % | **Boil:** 97.38 gal for 60 Mins  
+**Total Grain Weight:** 224 lbs |   **Total Hops:**  40.00 oz
 
 ---GRAIN BILL------
 Amt         Name                               Type        #        %/IBU
