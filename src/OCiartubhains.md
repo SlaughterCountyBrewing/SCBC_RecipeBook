@@ -27,5 +27,11 @@ Target Kettle Fill Volume: 97.38 gal
 | 36.00 oz | Goldings, East Kent [5.90 %] | Hop  | 60.0     | 5   | 44.6 IBUs |
 | 0.00 oz  | Fuggles [4.50 %]             | Hop  | 60.0 min | 6   | 0.0 IBUs  |
 
+## Yeast
+| Amount  | Name                                     | Type  | #   | %/IBU |
+| ------- | ---------------------------------------- | ----- | --- | ----- |
+| 1.0 pkg | Nottingham Yeast (Lallemand #) [23.66 m] | Yeast | 8   | -     |
+
+
 ## Notes
 ![](../assets/media/OCiardubhainsIrishStout.jpg)
