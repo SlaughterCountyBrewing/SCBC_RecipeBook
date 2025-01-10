@@ -1,10 +1,7 @@
 - [x] TODO - scan
-- [ ] format
+- [/] format
 
-Here's the recipe converted to markdown while maintaining the original formatting:
-
-# Slaughtered Pig - Irish Red Ale - 93.00 gal
-
+# Slaughtered Pig - Irish Red Ale
 ABV: 5.6 % | IBU: 28.3 IBUs Tinseth | SRM: 14.9 SRM  
 OG: 1.055 SG | FG: 1.013 SG | BU:GU: 0.511 | Calories: 151.6 kcal/12oz  
 EE%: 72.00 % | Boil: 97.38 gal for 60 Mins      
@@ -25,8 +22,8 @@ Total Grain Weight: 189 lbs 6.4 oz  | Total Hops: 34.25 oz oz.
 | ------- | --------------------------------- | ------------- | --------- |
 | Mash In | Add 59.19 gal of water at 165.0 F | 150.0 F       | 75 min    |
 
-REST: 30 mins; RECIRC: 60 mins.
-Fly sparge with 60.92 gal water at 168.0 F
+REST: 30 mins; RECIRC: 60 mins.  
+Fly sparge with 60.92 gal water at 168.0 F 
 
 Target Kettle Fill Volume: 97.38 gal
 
@@ -39,21 +36,13 @@ Est Pre_Boil Gravity: 1.053 SG    Est OG: 1.055 SG
 | 0.00 oz  | Northern Brewer [7.80 %] - Boil 60.0 min | Hop  | 7   |
 | 16.00 oz | Cascade [5.90 %] - Boil 5.0 min          | Hop  | 8   |
 
-## WHIRLPOOL / STEEP
-
-## DRY HOP
-
 ## YEAST (TOP CROPPED OR 5 LITER STARTER)
+| Amount  | Name                                     | Type  | #   | %/IBU |
+| ------- | ---------------------------------------- | ----- | --- | ----- |
+| 1.0 pkg | Nottingham Yeast (Lallemand #) [23.66 m] | Yeast | 8   | -     |
 
-## FERM PROCESS
-Primary Start: 01 Jul 2014 - 4.00 Days at 67.0 F
-Secondary Start: 05 Jul 2014 - 10.00 Days at 67.0 F
-Style Carb Range: 1.50-2.30 Vols
-Bottling Date: 15 Jul 2014 - with 2.3 Volumes CO2:
+
 
 ## NOTES
-
-## Notes
-
 
 ![](../assets/media/Famine.jpg)
