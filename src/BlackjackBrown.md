@@ -1,3 +1,4 @@
+
 # Blackjack Brown - Northern English Brown Ale
 **Specs:** 93.00 gal | **ABV:** 6.6% | **IBUs:** 35.0 IBUs Tinseth | **SRM:** 20.2 SRM  
 **OG:** 1.066 SG | **FG:** 1.015 SG | **BU:GU:** 0.533 | **Calories:** 151.6 kcal/12oz  

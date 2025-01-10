@@ -1,7 +1,6 @@
-# Luna Negra Belgian White with Blackberries and Spices - Witbier
-**County Brewing Company**
+# Luna Negra - Belgian White with Blackberries and Spices
 
-**ABV:** 5.7% | **IBU:** 17.6 IBUs Tinseth | **SRM:** 3.7 SRM  
+**Specs:** 93.00 gal |**ABV:** 5.7% | **IBU:** 17.6 IBUs Tinseth | **SRM:** 3.7 SRM  
 **OG:** 1.055 SG | **FG:** 1.012 SG | **BU:GU:** 0.319 | **Calories:** 151.6 kcal/12oz  
 **EE%:** 72.00% | **Boil:** 97.38 gal for 60 Mins  
 **Total Grain Weight:** 195 lbs | **Total Hops:** 18.00 oz oz.
@@ -20,7 +19,7 @@ Fly sparge with 54.84 gal water at 168.0 F
 
 **Target Kettle Fill Volume:** 97.38 gal
 
-## Boil Process
+## Boil Process (Hop Schedule)
 **Est Pre_Boil Gravity:** 1.053 SG | **Est OG:** 1.055 SG
 
 | Amount   | Name                                        | Type  | #   | %/IBU     |

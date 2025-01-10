@@ -61,13 +61,22 @@ Table Of Contents
 - [Oatmeal Stout](src/OatmealStout.md)
 - [Outlane Oud Brun](src/Outlane.md)
 - [SkillS Shot Amber](src/SkillShot.md)
-- [Slaughtered Pig Smoked Cherry Red](src/SlaughteredPig.md)
+- [Slaughtered Pig Smoked Cherry Red](src/FamineIrishRed.md)
 - [Sleepy Hollow Pumpkin Porter](src/SleepyHollow.md)
 - [Starke Roggenhasse - Imperial Rye IPA](src/Roggenhasse.md)
 
 
 
->[!NOTE] AI was used for OCR and initil drafting of the Markdown format.
+>[!NOTE] AI was used for OCR and initial drafting of the Markdown format.
+> During the process, the AI's were inconsistent, made frequent errors, 
+> wrongly interpreted and changed things, and ignored the hand written 
+> notes... of course.  Image scan's of the 
+> original log sheets are included - please doublecheck the printed recipe 
+> against the included photos and any additional notes. 
+> We didn't follow these to the letter as we
+> had developed our own process in the brewhouse.  All the printed stats
+> are calculated values - actual measured values will appear in the log sheet
+> when included.
 
 Contributions / Contact
 -----------------------

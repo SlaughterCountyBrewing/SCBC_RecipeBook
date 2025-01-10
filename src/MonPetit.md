@@ -36,7 +36,7 @@ Target Kettle Fill Volume: 97.38 gal
 ## Yeast
 | Amount  | Name                  | Type  | #   | %/IBU |
 | ------- | --------------------- | ----- | --- | ----- |
-| 1.0 pkg | Safale T-58 [23.66 m] | Yeast | 6   | -     |
+| 1.0 pkg | SafAle T-58 [23.66 m] | Yeast | 6   | -     |
 
 
 ## Notes

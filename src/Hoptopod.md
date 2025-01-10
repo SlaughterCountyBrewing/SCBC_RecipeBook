@@ -1,7 +1,6 @@
 # Hoptopod IPA - American IPA
-**Slaughter County Brewing Company**
 
-**ABV:** 6.7% | **IBU:** 49.5 IBUs Tinseth | **SRM:** 7.4 SRM  
+**Specs:** 93.00 gal |**ABV:** 6.7% | **IBU:** 49.5 IBUs Tinseth | **SRM:** 7.4 SRM  
 **OG:** 1.064 SG | **FG:** 1.013 SG | **BU:GU:** 0.777 | **Calories:** 151.6 kcal/12oz  
 **EE%:** 72.00% | **Boil:** 97.38 gal for 60 Mins  
 **Total Grain Weight:** 222 lbs | **Total Hops:** 105.00 oz oz.
@@ -27,12 +26,11 @@
 | 10.00 oz | Centennial [10.00%] - Boil 15.0 min      | Hop  | 12  | 9.2 IBUs  |
 | 10.00 oz | Centennial [10.00%] - Steep/Whirlpool    | Hop  | 13  | 0.0 IBUs  |
 | 50.00 oz | Centennial [10.00%] - Dry Hop 7.0 Days   | Hop  | 14  | 0.0 IBUs  |
+## Yeast
 
-## Fermentation
-**Primary Start:** 05 Jul 2018 - 14.00 Days at 67.0 F  
-**Secondary Start:** 19 Jul 2018 - 10.00 Days at 65.0 F  
-**Style Carb Range:** 2.40-2.90 Vols  
-**Bottling Date:** 19 Jul 2018 with 2.3 Volumes CO2
+|Amount|Name|Type|#|%/IBU|
+|---|---|---|---|---|
+|1.0 pkg|Nottingham Yeast (Lallemand #) [23.66 m]|Yeast|8|-|
 
 # Notes
 
