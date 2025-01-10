@@ -40,4 +40,4 @@ Target Kettle Fill Volume: 97.38 gal
 
 
 ## Notes
-![](assets/media/MonPetit_Tripel.jpg)
+![](../assets/media/MonPetit_Tripel.jpg)
