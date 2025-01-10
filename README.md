@@ -67,7 +67,7 @@ Table Of Contents
 
 
 
-
+>[!NOTE] AI was used for OCR and initil drafting of the Markdown format.
 
 Contributions / Contact
 -----------------------
