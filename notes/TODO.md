@@ -2,15 +2,16 @@ TODO
 ----
 - [ ] .
 
-In Progress
+In Progress ✓
 -----------
 - [/] .
+
+Not Gonna Do ✓
+------
+- [-] .
 
 Done ✓
 ------
 - [x] .
 
-Not Gonna Do ✓
-------
-- [-] .
 

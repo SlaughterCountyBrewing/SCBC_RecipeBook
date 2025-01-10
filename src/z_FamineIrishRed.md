@@ -1,6 +1,3 @@
-- [x] TODO - scan
-- [/] format
-
 # Slaughtered Pig - Irish Red Ale
 ABV: 5.6 % | IBU: 28.3 IBUs Tinseth | SRM: 14.9 SRM  
 OG: 1.055 SG | FG: 1.013 SG | BU:GU: 0.511 | Calories: 151.6 kcal/12oz  
@@ -46,3 +43,6 @@ Est Pre_Boil Gravity: 1.053 SG    Est OG: 1.055 SG
 ## NOTES
 
 ![](../assets/media/Famine.jpg)
+
+- [x] TODO - scan
+- [x] format

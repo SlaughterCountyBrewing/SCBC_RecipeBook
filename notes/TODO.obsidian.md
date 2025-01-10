@@ -17,6 +17,15 @@ sort by filename
 hide task count
 ```
 
+Not Gonna Do ✓
+------
+```tasks
+status.type is cancelled
+filename does not include TODO.obsidian
+sort by filename
+hide task count
+```
+
 Done ✓
 ------
 ```tasks
@@ -26,7 +35,4 @@ sort by filename
 hide task count
 ```
 
-Not Gonna Do ✓
-------
-- [x] . 
 
