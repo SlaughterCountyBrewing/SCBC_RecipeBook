@@ -2,7 +2,8 @@
 
 **Specs:** 93.00 gal | **ABV:** 7.8% | **IBUs**: 22.2 IBUs Tinseth   | **SRM**: 11.4 SRM  
 **OG**: 1.064 SG | **FG**: 1.005 SG | **BU:GU**: 0.345  | **Calories**: 151.6 kcal/12oz  
-**Est. ABV**: 7.8%  | **Batch Size**: 93.00 gal  | **Boil Size**: 97.38 gal for 60 mins  
+**Boil**: 97.38 gal for 60 mins    
+**Est. ABV**: 7.8%  | **Batch Size**: 93.00 gal    
 
 ## Grain Bill
 | Amount   | Name                                  | Type  | #   | %/IBU |
@@ -35,9 +36,9 @@ Target Kettle Fill Volume: 97.38 gal
 | 32.00 oz | Heather [0.00%] | Hop  | 60.0 min | 8   | 0.0 IBUs |
 ## Yeast
 
-|Amount|Name|Type|#|%/IBU|
-|---|---|---|---|---|
-|1.0 pkg|Nottingham Yeast (Lallemand #) [23.66 m]|Yeast|8|-|
+| Amount  | Name                                     | Type  | #   | %/IBU |
+| ------- | ---------------------------------------- | ----- | --- | ----- |
+| 1.0 pkg | Nottingham Yeast (Lallemand #) [23.66 m] | Yeast | 8   | -     |
 ## Notes
 
 Heather Ale is one of the more ancient fermented beverages, with archaeological evidence in Scotland and Ireland that dates to the Neolithic Period (ca. 5,000 years ago). Greeks and Romans wrote about the Celts of Britain (Britannia), Ireland (Hibernia), and the Picts of Scotland (Caledonia) who made a coveted fermented beverage with heather as a primary ingredient. Legend has it the original recipe for the revered heather elixir of the Picts went to the grave as a secret. Nevertheless, this recipe relies on archaeological and molecular archaeological research to recreate the possible flavors and aromas.

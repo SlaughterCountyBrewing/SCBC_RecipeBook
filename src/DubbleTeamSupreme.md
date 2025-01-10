@@ -1,7 +1,7 @@
 # Dubble Team Supreme - Belgian Dubbel
 **Specs:** 93.00 gal | **ABV:** 6.8% | **IBU:** 31.7 IBUs Tinseth | **SRM:** 15.3 SRM  
 **OG:** 1.065 SG | **FG:** 1.013 SG | **BU:GU:** 0.489 | **Calories:** 213.7 kcal/12oz  
-**EE%:** 72.00% | **Boil:** 97.22 gal for 60 Mins  
+**Eff:** 72.00% | **Boil:** 97.22 gal for 60 Mins  
 **Total Grain Weight:** 213 lbs 9.6 oz | **Total Hops:** 44.00 oz oz.
 
 ## Grain Bill
@@ -31,9 +31,9 @@ Fly sparge with 61.88 gal water at 168.0 F
 
 ## Yeast
 
-|Amount|Name|Type|#|%/IBU|
-|---|---|---|---|---|
-|1.0 pkg|Nottingham Yeast (Lallemand #) [23.66 m]|Yeast|8|-|
+| Amount  | Name                                     | Type  | #   | %/IBU |
+| ------- | ---------------------------------------- | ----- | --- | ----- |
+| 1.0 pkg | Nottingham Yeast (Lallemand #) [23.66 m] | Yeast | 8   | -     |
 
 ## Notes
 
