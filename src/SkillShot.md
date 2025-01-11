@@ -53,4 +53,4 @@ Est Pre_Boil Gravity: 1.054 SG Est OG: 1.056 SG
 
 ![](../assets/media/SkillShot.jpg)
 
-- [ ] TODO - formatting
+- [x] TODO - formatting

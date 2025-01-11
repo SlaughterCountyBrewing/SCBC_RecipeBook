@@ -57,4 +57,4 @@ Bottling Date: 18 Oct 2012 with 2.3 Volumes CO2:
 - (Handwritten calculations for additions and IBUs.)
 ![](../assets/media/SleepyHollow.jpg)
 
-- [ ]  TODO - formating
+- [x] TODO - formating
