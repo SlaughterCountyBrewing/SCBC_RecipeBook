@@ -6,9 +6,10 @@ Obsidian Template with my favorite plugins, settings, and themes installed.
 - Community Plugins:
 	- Folder Note
 	- Homepage
-	- Obsidian Git (you'll want to adjust the git repo path per project - usually it's `.`)
+	- Obsidian Git (you'll want to adjust the git repo path and set the push/pull times per project - usually the path is `.`)
 	- Settings-search
 	- Plugin Update Tracker
+	- Tasks
 
 - Files & Links
 	- New link format -> Relative path to file
