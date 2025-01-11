@@ -1,0 +1,103 @@
+\documentclass[12pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{array}
+\usepackage{fancybox}
+\usepackage{multicol}
+\usepackage[normalem]{ulem}
+
+% Custom command for form fields
+\newcommand{\formline}[1][4cm]{\uline{\hspace{#1}}}
+
+\begin{document}
+
+\noindent\textbf{Brewery Log - Brewery\_Log\_template.xlsx}\\
+\textbf{27 CFR 25.292}
+
+\vspace{0.3cm}
+
+\begin{multicols}{2}
+\noindent
+\begin{tabular}{ll}
+DATE: & \formline[6cm] \\
+FLAVOR: & \formline[6cm] \\
+BATCH \#: & \formline[6cm] \\
+FERMENTER: & \formline[6cm] \\
+BBL PRODUCED FOR FERMENTATION: & \formline[3cm] \\
+BBL/Date RACKED: & \formline[5cm] \\
+BBL/Date KEGGED: & \formline[5cm] \\
+BBL/Date BOTTLED: & \formline[5cm] \\
+BBL/Date TAPROOM: & \formline[5cm] \\
+\end{tabular}
+
+\vspace{0.3cm}
+
+\noindent\framebox[\columnwidth]{\textbf{INGREDIENTS}}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{tabular}{l}
+Malt \formline[7cm] \\
+Barley \formline[7cm] \\
+Wheat \formline[7cm] \\
+Corn \formline[7cm] \\
+Surgars \formline[7cm] \\
+Misc \formline[7cm] \\
+Hops \formline[7cm] \\
+Yeast \formline[7cm] \\
+\end{tabular}
+
+\vspace{0.3cm}
+
+\noindent\framebox[\columnwidth]{\textbf{PROCESS}}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{tabular}{l}
+Dough-in Start/End \formline[5.5cm] \\
+Mash pH/Time/Temp \formline[5.5cm] \\
+Recirc Time Start/End \formline[5cm] \\
+First Wort Time/Temp \formline[5cm] \\
+First Wort Gravity \formline[5.5cm] \\
+Kettle Fill Time \formline[6cm] \\
+Kettle Fill Volume \formline[5.8cm] \\
+Kettle Fill Gravity \formline[5.8cm] \\
+Start Boil, First Hops \formline[5cm] \\
+WhirlFloc Time \formline[6cm] \\
+Flame Out Time \formline[6cm] \\
+Whirlpool Start Time \formline[5.5cm] \\
+Knock-out Gravity \formline[5.8cm] \\
+Knock-out pH \formline[6.5cm] \\
+Cooling Start/End \formline[5.8cm] \\
+Cooling Rate gpm \formline[6cm] \\
+Chill Temp \formline[6.8cm] \\
+Volume Cooled \formline[6cm] \\
+Target Gravity \formline[6.2cm]
+\end{tabular}
+
+\columnbreak
+
+\noindent\framebox[\columnwidth]{\textbf{DAILY BALLINGS}}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{@{}p{4.2cm}@{}p{4.2cm}@{}}
+\textbf{Date/Time} & \textbf{Gravity/Temp} \\[0.3cm]
+\formline[4cm] & \formline[4cm] \\[0.5cm]
+\formline[4cm] & \formline[4cm] \\[0.5cm]
+\formline[4cm] & \formline[4cm] \\[0.5cm]
+\formline[4cm] & \formline[4cm] \\[0.5cm]
+\formline[4cm] & \formline[4cm] \\[0.5cm]
+\formline[4cm] & \formline[4cm] \\[0.5cm]
+\formline[4cm] & \formline[4cm] \\[0.5cm]
+\formline[4cm] & \formline[4cm] \\[0.5cm]
+\formline[4cm] & \formline[4cm] \\[0.5cm]
+\formline[4cm] & \formline[4cm] \\[0.5cm]
+\formline[4cm] & \formline[4cm] \\[0.5cm]
+\formline[4cm] & \formline[4cm]
+\end{tabular}
+
+\end{multicols}
+\end{document}

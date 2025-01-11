@@ -1,0 +1,104 @@
+\documentclass[12pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{array}
+\usepackage{fancybox}
+\usepackage{multicol}
+\usepackage[normalem]{ulem}
+
+% Custom command for form fields
+\newcommand{\formline}[1][4cm]{\uline{\hspace{#1}}}
+
+\begin{document}
+
+\noindent\textbf{Brewery Log - Brewery\_Log\_template.xlsx}\\
+\textbf{27 CFR 25.292}
+
+\vspace{0.3cm}
+
+\begin{multicols}{2}
+
+\noindent
+\begin{tabular}{ll}
+DATE: & \formline \\
+FLAVOR: & \formline \\
+BATCH \#: & \formline \\
+FERMENTER: & \formline \\
+BBL PRODUCED FOR FERMENTATION: & \formline \\
+BBL/Date RACKED: & \formline \\
+BBL/Date KEGGED: & \formline \\
+BBL/Date BOTTLED: & \formline \\
+BBL/Date TAPROOM: & \formline \\
+\end{tabular}
+
+\vspace{0.3cm}
+
+\noindent\framebox[\columnwidth]{\textbf{INGREDIENTS}}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{tabular}{l}
+Malt \formline[5cm] \\
+Barley \formline[5cm] \\
+Wheat \formline[5cm] \\
+Corn \formline[5cm] \\
+Surgars \formline[5cm] \\
+Misc \formline[5cm] \\
+Hops \formline[5cm] \\
+Yeast \formline[5cm] \\
+\end{tabular}
+
+\vspace{0.3cm}
+
+\noindent\framebox[\columnwidth]{\textbf{PROCESS}}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{tabular}{l}
+Dough-in Start/End \formline[5cm] \\
+Mash pH/Time/Temp \formline[5cm] \\
+Recirc Time Start/End \formline[5cm] \\
+First Wort Time/Temp \formline[5cm] \\
+First Wort Gravity \formline[5cm] \\
+Kettle Fill Time \formline[5cm] \\
+Kettle Fill Volume \formline[5cm] \\
+Kettle Fill Gravity \formline[5cm] \\
+Start Boil, First Hops \formline[5cm] \\
+WhirlFloc Time \formline[5cm] \\
+Flame Out Time \formline[5cm] \\
+Whirlpool Start Time \formline[5cm] \\
+Knock-out Gravity \formline[5cm] \\
+Knock-out pH \formline[5cm] \\
+Cooling Start/End \formline[5cm] \\
+Cooling Rate gpm \formline[5cm] \\
+Chill Temp \formline[5cm] \\
+Volume Cooled \formline[5cm] \\
+Target Gravity \formline[5cm] \\
+\end{tabular}
+
+\columnbreak
+
+\noindent\framebox[\columnwidth]{\textbf{DAILY BAILINGS}}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{tabular}{ll}
+Date/Time & Gravity/Temp \\
+\formline[3cm] & \formline[3cm] \\
+\formline[3cm] & \formline[3cm] \\
+\formline[3cm] & \formline[3cm] \\
+\formline[3cm] & \formline[3cm] \\
+\formline[3cm] & \formline[3cm] \\
+\formline[3cm] & \formline[3cm] \\
+\formline[3cm] & \formline[3cm] \\
+\formline[3cm] & \formline[3cm] \\
+\formline[3cm] & \formline[3cm] \\
+\formline[3cm] & \formline[3cm] \\
+\formline[3cm] & \formline[3cm] \\
+\formline[3cm] & \formline[3cm] \\
+\end{tabular}
+
+\end{multicols}
+\end{document}

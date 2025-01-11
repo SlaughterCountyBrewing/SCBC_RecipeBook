@@ -4,3 +4,7 @@ ScooterGitTemplate.code-workspace
 !.obsidian/themes/*
 !.obsidian/plugins/*
 !.obsidian/snippets/*
+*.aux
+*.log
+*.dvi
+*.pdf
