@@ -12,7 +12,7 @@ Total Grain Weight: 189 lbs 6.4 oz  | Total Hops: 34.25 oz oz.
 | 10 lbs       | Special B Malt (180.0 SRM)                | Grain | 3   |
 | 8 lbs        | Pale Malt (2 Row) US (2.0 SRM)            | Grain | 4   |
 | 6 lbs 6.4 oz | Caramel/Crystal Malt - 60L (60.0 SRM)     | Grain | 5   |
-| 5 lbs        | Poppybuds                                 |       |     |
+| 5 lbs        | Potatobuds (no additives/flavors)         |       |     |
 
 ## MASH
 | Name    | Description                       | Step Temperat | Step Time |
