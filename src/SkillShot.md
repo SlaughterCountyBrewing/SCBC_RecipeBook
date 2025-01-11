@@ -1,11 +1,9 @@
-# Ol' One Eye - 3BBL - English IPA - 93.00 gal
+# Skill Shot Northwest Amber - Hoppy Amber Ale
 
-```
-ABV: 5.7 % - 51.4 IBUs Tinseth - 11.6 SRM
-OG: 1.056 SG - FG: 1.013 SG - BU:GU: 0.912 - Calories: 151.6 kcal/12oz
-EE%: 72.00 % -- Boil: 97.38 gal for 60 Mins
-Total Grain Weight: 195 lbs    Total Hops: 45.00 oz oz.
-```
+ABV: 5.7 % | 51.4 IBUs Tinseth | 11.6 SRM  
+OG: 1.056 SG | FG: 1.013 SG | BU:GU: 0.912 | Calories: 151.6 kcal/12oz  
+EE%: 72.00 % | Boil: 97.38 gal for 60 Mins  
+Total Grain Weight: 195 lbs  |  Total Hops: 45.00 oz oz.  
 
 ## GRAIN BILL
 
@@ -18,9 +16,9 @@ Total Grain Weight: 195 lbs    Total Hops: 45.00 oz oz.
 
 ## MASH
 
-| Name    | Description                       | Step Temperat | Step Time |
-| ------- | --------------------------------- | ------------- | --------- |
-| Mash In | Add 65.94 gal of water at 162.0 F | 152.0 F       | 60 min    |
+| Name    | Description                       | Step Temperature | Step Time |
+| ------- | --------------------------------- | ---------------- | --------- |
+| Mash In | Add 65.94 gal of water at 162.0 F | 152.0 F          | 60 min    |
 
 REST: 30 mins; RECIRC: 60 mins.
 Fly sparge with 54.84 gal water at 168.0 F
@@ -41,8 +39,6 @@ Est Pre_Boil Gravity: 1.054 SG Est OG: 1.056 SG
 | -------- | -------------------------------------- | ---- | --- | -------- |
 | 15.00 oz | Cascade [9.30 %] - Steep/Whirlpool 2.0 | Hop  | 7   | 1.1 IBUs |
 
-## DRY HOP
-
 ## YEAST (TOP CROPPED OR 5 LITER STARTER)
 
 | Amt     | Name                                     | Type  | #   | %/IBU |
@@ -50,6 +46,9 @@ Est Pre_Boil Gravity: 1.054 SG Est OG: 1.056 SG
 | 1.0 pkg | Nottingham Yeast (Lallemand #-) [23.66 m | Yeast | 8   | -     |
 
 ## NOTES
+
+- The name, "Skill Shot," is a pinball reference.
+- Originally known as the Ol' One Eye, an English style IPA, this beer eventually became the, "Skill Shot Northwest Amber." The style, "English IPA," is very mild by PNW standards. Calling Skill Shot a "Northwest Amber" aligned better with expectations.  It's a very popular, approachable hoppy amber :-)
 
 ![](../assets/media/SkillShot.jpg)
 
