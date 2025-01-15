@@ -2,12 +2,17 @@
 Style: Robust Porter    TYPE: All Grain
 
 ```
-SRM: 27.6 SRM         SRM RANGE: 22.0-35.0 SRM
-IBU: 51.3 IBUs Tinseth IBU RANGE: 25.0-50.0 IBUs
-OG: 1.055 SG         OG RANGE: 1.048-1.065 SG
-FG: 1.017 SG         FG RANGE: 1.012-1.016 SG
-BU:GU: 0.927         Calories: 151.6 kcal/12oz    Est ABV: 5.1 %
-EE%: 72.00 %         Batch: 93.00 gal     Boil: 97.22 gal    BT: 60 Mins
+SRM: 27.6 SRM         
+IBU: 51.3 IBUs Tinseth 
+OG: 1.055 SG         
+FG: 1.017 SG         
+BU:GU: 0.927         
+Calories: 151.6 kcal/12oz    
+Est ABV: 5.1 %
+Eff: 72.00 %         
+Batch: 93.00 gal     
+Boil: 97.22 gal    
+BT: 60 Mins
 ```
 
 ## WATER CHEMISTRY ADDITIONS
