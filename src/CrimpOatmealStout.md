@@ -1,4 +1,4 @@
-# Oatmeal Stout
+# The Crimp - Oatmeal Stout
 
 **Specs:** 93.00 gal | **ABV:** 6.1 % | **IBUs:** 37.3 IBUs Tinseth | **SRM:** 31.8 SRM  
 **OG:** 1.063 SG | **FG:** 1.014 SG | **BU:GU:** 0.345 | **Calories:** 151.6 kcal/12oz  
