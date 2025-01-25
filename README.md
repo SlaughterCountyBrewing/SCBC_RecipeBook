@@ -65,7 +65,7 @@ Table Of Contents
 - [Luna Negra](src/LunaNegra.md)
 - [Mon Petit Tripel](src/MonPetit.md)
 - [O'Ciardubhain's Irish Stout](src/OCiartubhains.md)
-- [Oatmeal Stout](src/OatmealStout.md)
+- [The Crimp Oatmeal Stout](src/CrimpOatmealStout.md)
 - [Outlane Oud Brun](src/Outlane.md)
 - [SkillS Shot Amber](src/SkillShot.md)
 - [Famine Irish Red](src/FamineIrishRed.md)
